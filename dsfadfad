@@ -1,0 +1,52 @@
+poruke sa lijeve strane
+
+<div class="row no-gutters">
+			<div class="col-md-3">
+			  <div class="chat-bubble chat-bubble--left">
+				Hello dude!
+			  </div>
+			</div>
+		  </div>
+
+
+podadci o otvorienom cetu
+
+<div class="settings-tray">
+			<div class="friend-drawer no-gutters friend-drawer--grey">
+			<img class="profile-image" src="https://www.clarity-enhanced.net/wp-content/uploads/2020/06/robocop.jpg" alt="">
+			<div class="text">
+			  <h6>Robo Cop</h6>
+			  <p class="text-muted">Layin' down the law since like before Christ...</p>
+			</div>
+			<span class="settings-tray--right">
+			  <i class="material-icons">cached</i>
+			  <i class="material-icons">message</i>
+			  <i class="material-icons">menu</i>
+			</span>
+		  </div>
+		</div>
+
+
+podaci o ljudima
+
+<div class="friend-drawer friend-drawer--onhover">
+		  <img class="profile-image" src="https://www.clarity-enhanced.net/wp-content/uploads/2020/06/rick.jpg" alt="">
+		  <div class="text">
+			<h6>Richard</h6>
+			<p class="text-muted">I'm not sure...</p>
+		  </div>
+		  <span class="time text-muted small">13:21</span>
+		</div>
+		<hr>
+		\
+
+
+
+		<div>
+                        <div>
+                            <Message/>
+                        </div>
+                        <div className="chat-panel">
+                            <Chat/>
+                        </div>
+                    </div>
