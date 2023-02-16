@@ -1,10 +1,11 @@
+import LogIn from '@/components/logIn/LogIn'
 
-const Login = () => {
+const UserLogIn = () => {
     return (
-        <div>
-            Login
-        </div>
+        <>
+            <LogIn />
+        </>
     )
 }
 
-export default Login
+export default UserLogIn

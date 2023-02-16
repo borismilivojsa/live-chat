@@ -1,4 +1,4 @@
-import Chats from '@/components/Dashboard/Chats'
+import Chats from '@/components/conversation/Chats'
 
 const FriendId = () => {
     return(
